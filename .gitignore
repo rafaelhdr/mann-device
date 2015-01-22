@@ -1,0 +1,5 @@
+mann_device/settings_local.py
+*.pyc
+db.sqlite3
+pins/*
+
